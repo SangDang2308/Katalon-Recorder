@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_14_EmailValidation-Check the Email text field that has used by another user before</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>ecb8aa9c-9854-467e-9f2a-8d467628f7fa</testCaseGuid>
-</TestCaseEntity>
