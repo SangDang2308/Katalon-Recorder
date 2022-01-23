@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_26_SignUpByFacebook_Check SignIn page has link with Facebook</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>cc92634a-77cc-4eac-8437-5e5cff908584</testCaseGuid>
-</TestCaseEntity>
