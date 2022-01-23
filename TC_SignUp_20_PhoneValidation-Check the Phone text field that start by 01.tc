@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_20_PhoneValidation-Check the Phone text field that start by 01</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>4ae50635-9f5e-47f0-9254-9b92ea716f81</testCaseGuid>
-</TestCaseEntity>
