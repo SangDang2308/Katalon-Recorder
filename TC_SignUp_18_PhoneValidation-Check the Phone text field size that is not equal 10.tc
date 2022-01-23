@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_18_PhoneValidation-Check the Phone text field size that is not equal 10</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>a71b8795-826f-4830-ac91-879649edbe57</testCaseGuid>
-</TestCaseEntity>
