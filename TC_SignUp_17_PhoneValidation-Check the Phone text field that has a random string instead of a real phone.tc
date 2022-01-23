@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_17_PhoneValidation-Check the Phone text field that has a random string instead of a real phone</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>d66c7dfc-d696-4846-9095-367ad467640d</testCaseGuid>
-</TestCaseEntity>
