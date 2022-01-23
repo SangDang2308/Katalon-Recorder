@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_21_PhoneValidation-Check the Phone number text field that has used by another user before</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e62dca21-ced4-4356-948d-93b83d0f01b7</testCaseGuid>
-</TestCaseEntity>
