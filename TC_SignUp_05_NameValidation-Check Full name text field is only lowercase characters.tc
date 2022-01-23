@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_05_NameValidation-Check Full name text field is only lowercase characters</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>910f750b-ce54-435d-bcf7-45a56f318ead</testCaseGuid>
-</TestCaseEntity>
