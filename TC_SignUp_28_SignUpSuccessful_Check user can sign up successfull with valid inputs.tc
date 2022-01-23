@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_28_SignUpSuccessful_Check user can sign up successfull with valid inputs</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>ed95b716-1742-4013-8e6d-fdcac2970161</testCaseGuid>
-</TestCaseEntity>
