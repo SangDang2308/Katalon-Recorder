@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignUp_01 Check user sign up with all fields empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14cd4c67-d8e9-4a00-bf9a-fee83826fcaa</testCaseGuid>
+</TestCaseEntity>

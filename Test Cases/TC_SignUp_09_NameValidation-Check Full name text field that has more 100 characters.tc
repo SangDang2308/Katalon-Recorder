@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignUp_09_NameValidation-Check Full name text field that has more 100 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e394614-b13c-4ebb-bfa2-46b8a9034d45</testCaseGuid>
+</TestCaseEntity>

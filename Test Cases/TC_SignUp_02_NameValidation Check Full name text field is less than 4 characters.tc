@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignUp_02_NameValidation Check Full name text field is less than 4 characters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b4f77ae-c323-4b63-8c24-a7e47b2e186c</testCaseGuid>
+</TestCaseEntity>
