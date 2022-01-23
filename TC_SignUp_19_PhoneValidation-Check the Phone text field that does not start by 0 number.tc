@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_19_PhoneValidation-Check the Phone text field that does not start by 0 number</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>ae96d08f-e7ef-4401-8dfb-eced89a8bcc6</testCaseGuid>
-</TestCaseEntity>
