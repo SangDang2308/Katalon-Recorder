@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_SignUp_10_EmailValidation-Check the Email text field that has an Email address without at sign symbol</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>50eb19f0-6ca5-4cc5-9db8-f3a3438b961c</testCaseGuid>
-</TestCaseEntity>
