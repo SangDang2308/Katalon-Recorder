@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_SignUp_08_NameValidation - Check Full name text field that has blank character in font of texts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96a85f27-973a-4c79-842d-a0847e2eb9c9</testCaseGuid>
+</TestCaseEntity>
